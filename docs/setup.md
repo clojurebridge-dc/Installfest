@@ -49,6 +49,7 @@ By the end of these instructions, you will have the following installed:
 * **Leiningen** a build tool for Clojure programs
 * **Nightcode** a text editor
 * **Git** a program for saving and sharing your program's code
+* **Koans** practice tests
 
 ## Instructions for all
 
@@ -67,7 +68,5 @@ Choose your operating system to get setup instructions:
 * [Windows 8](setup_win8.md)
 * [Windows 10](setup_win10.md)
 * [Linux](setup_ubuntu.md)
-
-## Instructions to clone clojure-koans
 
 
