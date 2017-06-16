@@ -1,0 +1,16 @@
+# .gitignore
+
+# project specific
+bin/
+logs/
+docs/_build
+
+# Editor artifacts
+.nrepl-port
+*~
+
+## Other
+# silly Mac filesystem
+*.DS_Store*
+*._*
+docs/_build/
