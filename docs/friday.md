@@ -1,14 +1,14 @@
 ClojureBridgeDC Agenda for Friday June 16, 2017
 ==================================================
 
-## Join us at Object Parters from 6:30pm - 8:30pm
+## Join us at Capital one McLean HQ 6:30pm - 8:30pm
 
 Capital One Headquarters <br/>
 1680 Capital one drive <br/>
 McLean, VA 22102
 
-We'll welcome you at the door so you can sign-in, customize your
-badge and pickup a lanyard.
+We'll welcome you at the door so you can sign-in and customize your
+badge.
 
 ## Installfest
 
