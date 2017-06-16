@@ -15,7 +15,7 @@ Many have them now offer "Opportunity Grants" so that underrepresented
 people can attend for free (*yes* they pay for travel, lodging and
 conference registration)!
 
-* [Clojure Conj](http://2016.clojure-conj.org/)
+* [Clojure Conj](http://2017.clojure-conj.org/)
 * [Clojure Conj Opportunity Grants](http://2016.clojure-conj.org/opportunity-grants/)
 
 ## ClojureBridge
