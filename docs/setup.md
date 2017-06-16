@@ -18,9 +18,6 @@ the requirements for each operating system are...
   Any recent distribution that includes **openjdk-8-jdk** or installing
   [JDK 8 from Oracle](http://www.oracle.com/technetwork/java/javase/downloads/index.html) should be fine.
 
-If you don't have access to a laptop or your laptop doesn't meet
-the requirements above we have a few spare laptops that you can borrow.
-
 ## Code of Conduct
 
 Everyone should understand that participation in ClojureBridge
@@ -70,3 +67,7 @@ Choose your operating system to get setup instructions:
 * [Windows 8](setup_win8.md)
 * [Windows 10](setup_win10.md)
 * [Linux](setup_ubuntu.md)
+
+## Instructions to clone clojure-koans
+
+
