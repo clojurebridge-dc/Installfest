@@ -1,6 +1,6 @@
 # ClojureBridge DC - Summer 2017
 
-![ClojureBridgeDC](docs/img/clojurebridgemn-logo-1024.png)
+![ClojureBridgeDC]
 
 Welcome to the ClojureBridge DC getting started page!
 
