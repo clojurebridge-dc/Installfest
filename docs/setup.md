@@ -57,7 +57,6 @@ These instructions apply to all platforms: Mac, Windows and Linux:
 
 * [Slack](slack.md)
 * [Nightcode](nightcode.md)
-* [Github](github.md)
 
 ## Instructions by operating system
 
